@@ -2,6 +2,8 @@ Datawarehouse
 =============
 This repo contains useful functions to build a Datawarehouse.
 
+All functions work with Microsoft SQL Server. Other SQL dialects like MySQL, Oracle SQL etc. has not been tested.
+
 Functions
 ---------
 ### Generic Functions
