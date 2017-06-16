@@ -7,9 +7,15 @@ All functions work with Microsoft SQL Server. Other SQL dialects like MySQL, Ora
 Functions
 ---------
 ### Generic Functions
-* generate a date list
-* generate a integer list
-* split a string with a split char
+* `[dbo].[DateList]` - generate a date list
+* `[dbo].[IntList]` - generate a integer list
+* `[dbo].[SplitString]` - split a string with a split char
+
+### Job Schedling
+* `[dbo].[sp_async_execute]` - a procedure to create a async execution via the SQL Agent
+
+### Development
+* `[dbo].[get_crossdatabase_dependencies]` - a proceudure to get all cross database dependencies
 
 ### Security
 * a script to get all permissions
