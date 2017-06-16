@@ -20,6 +20,10 @@ Functions
 ### Security
 * a script to get all permissions
 
+Additional othere Moduls unter other licenses
+---------------------------------------------
+* [SQL#](http://www.sqlsharp.com/features/) - over 320 functions and procedures
+
 Contribute
 ----------
 Feel free to send a pull request with functions you wanna see here.
