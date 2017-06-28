@@ -27,3 +27,7 @@ Additional othere Moduls unter other licenses
 Contribute
 ----------
 Feel free to send a pull request with functions you wanna see here.
+
+License
+-------
+I deliver this repository under the [MIT license](LICENSE). Nevertheless, some SQL scripts and functions have been copied from external sources which have been shared publicly on several websites. These scripts are remarked at the top of the files. These might be covered under another license - please request the author of this scripts for future information.
