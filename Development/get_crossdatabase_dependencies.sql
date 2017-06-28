@@ -1,7 +1,7 @@
 -- @source:
 --   https://stackoverflow.com/questions/13757387/getting-sql-server-cross-database-dependencies#22733306
 --   [dead] https://zakird.com/mssql/2011/06/07/finding-cross-database-dependencies/
--- @autor: zakir durumeric
+-- @author: zakir durumeric
 CREATE PROCEDURE [dbo].[get_crossdatabase_dependencies] AS
 BEGIN
 	SET NOCOUNT ON;
